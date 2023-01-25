@@ -1,6 +1,8 @@
 # ATMP
 Estudo Livro Automatize Tarefas Com Python
 
+## Este projeto se refere a criação do hábito de utilizar o Git cm conjunto com estudo do Livro __Automatize tarefas maçantes com Python__
+
 https://learn.microsoft.com/pt-br/azure/machine-learning/how-to-run-jupyter-notebooks
 
 
