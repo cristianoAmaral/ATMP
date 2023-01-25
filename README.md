@@ -1,16 +1,16 @@
 # ATMP
 Estudo Livro Automatize Tarefas Com Python
 
-## Este projeto se refere a criação do hábito de utilizar o Git em conjunto com estudo do Livro _Automatize tarefas maçantes com Python_
+## Este projeto se refere a criação do hábito de utilizar o Git em conjunto com estudo do Livro _" Automatize tarefas maçantes com Python"_
 
 https://learn.microsoft.com/pt-br/azure/machine-learning/how-to-run-jupyter-notebooks
 
 
 ## Atalho do Jupyter Notebook VsCode
 
-Digite	Entrar no modo de edição
+> Digite	Entrar no modo de edição
 
-Shift + Enter	Executar célula, Selecionar abaixo
+> Shift + Enter	Executar célula, Selecionar abaixo
 
 Controle/comando + Enter	Executar célula
 
