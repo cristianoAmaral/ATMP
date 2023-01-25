@@ -63,8 +63,13 @@ Tab	Alterar o foco para o próximo item focalizável (quando captura de guias es
 Controle/comando + S	Salvar notebook
 
 1	Alterar para h1
-2	Alterar para h2
+  
+2	Alterar para h2        
+
 3	Alterar para h3
+
 4	Alterar para h4
+
 5	Alterar para h5
+
 6	Alterar para h6
